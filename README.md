@@ -1,0 +1,1 @@
+Designed and trained a semi-supervised biomedical image classifier to classify images of different modalities like X-ray, CT, ultrasound. The classifier was tested on the MedMNIST dataset and achieved a 94% validation accuracy.
